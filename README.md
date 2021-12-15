@@ -20,8 +20,13 @@ Returns:
 A team organizing a university career fair has a list of companies along with their respective arrival times and their duration of stay. Only one company can present at any time. Given each company's arrival time and the duration they will stay, determine the maximum number of presentations that can be hosted during the career fair.
 
 -Function Description
+
 Complete the function maxEvents in the editor below. maxEvents has the following parameter(s):
+
     int arrival[n]: an array of integers where i.th element is the arrival time of the i.th company
+    
     int duration[n]: an array of integers where i.th element is the duration that the i.th company's stay at the career fair
+    
 Returns:
+
     int: the maximum number of promotional events that can be hosted
