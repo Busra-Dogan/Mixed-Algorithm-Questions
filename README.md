@@ -7,7 +7,7 @@ An e-commerce site tracks the purchases made each day. The product that is purch
 
 -Function Description
 
-Complete the function featuredProduct in the editor below. featuredProduct has the following parameter(s):
+featuredProduct function has the following parameter(s):
 
     string products[n]: an array of strings where each represents a purchased product.
     
@@ -21,7 +21,7 @@ A team organizing a university career fair has a list of companies along with th
 
 -Function Description
 
-Complete the function maxEvents in the editor below. maxEvents has the following parameter(s):
+maxEvents function has the following parameter(s):
 
     int arrival[n]: an array of integers where i.th element is the arrival time of the i.th company
     
