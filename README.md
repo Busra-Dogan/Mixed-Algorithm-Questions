@@ -6,9 +6,13 @@ In this project, there are the problems I have seen in various exams and the sol
 An e-commerce site tracks the purchases made each day. The product that is purchased the most one day is the featured product for the following day. If there is a tie for the product purchased most frequently, those product names are ordered alphabetically ascending and the last name in the list is chosen.
 
 -Function Description
+
 Complete the function featuredProduct in the editor below. featuredProduct has the following parameter(s):
+
     string products[n]: an array of strings where each represents a purchased product.
+    
 Returns:
+
     string: the name of the featured product.
     
     
