@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\UniversityCareerFair.exe
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\UniversityCareerFair.deps.json
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\UniversityCareerFair.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\UniversityCareerFair.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\UniversityCareerFair.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\ref\UniversityCareerFair.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\bin\Debug\net5.0\UniversityCareerFair.pdb
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\ref\UniversityCareerFair.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.pdb
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\UniversityCareerFair\obj\Debug\net5.0\UniversityCareerFair.genruntimeconfig.cache
