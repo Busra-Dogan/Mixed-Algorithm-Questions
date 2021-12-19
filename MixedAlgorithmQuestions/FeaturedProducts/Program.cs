@@ -67,7 +67,7 @@ namespace FeaturedProducts
             productsMax.Sort();
             var featuredProcut = productsMax[productsMax.Count - 1];
 
-            Console.WriteLine("deneme");
+            Console.WriteLine(featuredProcut);
         }
     }
 }

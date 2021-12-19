@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\FeaturedProducts.exe
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\FeaturedProducts.deps.json
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\FeaturedProducts.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\FeaturedProducts.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\FeaturedProducts.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\ref\FeaturedProducts.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\bin\Debug\net5.0\FeaturedProducts.pdb
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\ref\FeaturedProducts.dll
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.pdb
+C:\Users\LENOVO\Documents\GitHub\Mixed-Algorithm-Questions\MixedAlgorithmQuestions\FeaturedProducts\obj\Debug\net5.0\FeaturedProducts.genruntimeconfig.cache
